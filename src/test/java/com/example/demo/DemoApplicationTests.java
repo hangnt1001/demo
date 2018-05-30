@@ -12,8 +12,8 @@ public class DemoApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
-	@Test2
-	public void contextLoads() {
+	
+	public void contextLoads2() {
 	}
 
 }
